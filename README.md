@@ -22,3 +22,9 @@ A place for us to collaborate on the generative AI harms model.
 ## Harms
 
 A library of harms is maintained in [harms.md](harms.md).
+
+## Application
+
+The only answer to what applications are acceptable in society is to survey people. Attitudes will change over time based on many factors, so each survey will be a snapshot of current attitudes.
+
+We are collecting [applications](applications.md) for use in surveys.

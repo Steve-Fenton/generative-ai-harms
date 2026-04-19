@@ -34,6 +34,8 @@ Add more!
 
 ## Application
 
+This section captures harms associated with application, such as intent-based harms. See [applications](applications.md) for a list of specific uses, which will form the basis of surveys to determine general acceptance or rejection of those uses.
+
 Add more!
 
 ## Outcome
