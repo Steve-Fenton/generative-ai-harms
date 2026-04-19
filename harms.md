@@ -1,5 +1,13 @@
 # Harms
 
+It can be useful to think about harms in the context of the below statement.
+
+*If model providers resolved all major harms in the source and preparation of models...*
+
+- *I will try using the model to see what utility it brings*
+- *I will negotiate with others on determining appropriate applications of the technology*
+- *We will collectively look for new harms and pressure those responsible to remove them, and pressure authorities to remove them if those responsible neglect their duty*
+
 ## Source
 
 Models trained on copyrighted work without license or permission
