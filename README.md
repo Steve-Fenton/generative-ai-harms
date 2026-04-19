@@ -2,14 +2,14 @@
 
 A place for us to collaborate on the generative AI harms model.
 
-# Model
+## Model
 
 | Responsibility | Model providers | Model users | Consumers |
 | -------------- | --------------- | ----------- | --------- |
-| Source         | ✅              |             |           |
-| Preparation    | ✅              |             |           |
-| Application    |                 | ✅          | ✅        |
-| Outcome        | ✅              | ✅          |           |
+| Source         | ✅               |             |           |
+| Preparation    | ✅               |             |           |
+| Application    |                 | ✅           | ✅         |
+| Outcome        | ✅               | ✅           |           |
 
 **Source**: Where does the data come from? Does it contain bias or inaccuracy? Do we have permission to use the data?
 
@@ -18,3 +18,7 @@ A place for us to collaborate on the generative AI harms model.
 **Application**: What is our motivation for using generative AI? Is the use appropriate? Do we discover the use of generative AI? Does what we produce meet our existing quality standards? Are we misleading people? If a person did this, would we accept it? What value exists in the work beyond the generated output?
 
 **Outcome**: Is the output correct? What should we check before we call this done? What unintended consequences result from this?
+
+## Harms
+
+A library of harms is maintained in [harms.md](harms.md).
