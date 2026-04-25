@@ -28,3 +28,9 @@ A library of harms is maintained in [harms.md](harms.md).
 The only answer to what applications are acceptable in society is to survey people. Attitudes will change over time based on many factors, so each survey will be a snapshot of current attitudes.
 
 We are collecting [applications](applications.md) for use in surveys.
+
+## Useful and interesting reading
+
+- Steve Fenton: [Facing the reality of AI](https://stevefenton.co.uk/blog/2023/02/facing-reality-ai/)
+- Steve Fenton: [Generative AI: A model for acceptance](https://stevefenton.co.uk/blog/2026/04/generative-ai-harms/)
+- Ky Decker: [Do I belong in tech any more?](https://ky.fyi/posts/ai-burnout)
