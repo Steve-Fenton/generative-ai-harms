@@ -1,0 +1,14 @@
+{
+    "version": "0.2",
+    "language": "en-GB",
+    "words": [
+        "EESI",
+        "Elon",
+        "layoff",
+        "SELC",
+        "Stimson"
+    ],
+    "ignorePaths": [
+        "node_modules/**"
+    ]
+}

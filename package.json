@@ -1,0 +1,11 @@
+{
+  "name": "generative-ai-harms",
+  "version": "1.0.0",
+  "description": "A collection of information about generative AI harms",
+  "scripts": {
+    "spellcheck": "cspell \"**/*.md\""
+  },
+  "devDependencies": {
+    "cspell": "^8.17.2"
+  }
+}

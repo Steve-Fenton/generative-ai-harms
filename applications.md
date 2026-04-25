@@ -6,7 +6,7 @@ This is a list of uses that we will survey people on, with a prediction on the o
 
 The pre-condition for these results is that the use is not causing any of the harms listed in [harms.md](harms.md).
 
-## Uncategorized
+## Uncategorised
 
 | Use                                  | Prediction | Result |
 | ------------------------------------ | ---------- | ------ |

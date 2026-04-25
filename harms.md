@@ -13,7 +13,7 @@ It can be useful to think about harms in the context of the below statement.
 Models trained on copyrighted work without license or permission
 
 - The Guardian: [Tech companies are stealing our books, music and films for AI](https://www.theguardian.com/commentisfree/2025/sep/10/tech-companies-are-stealing-our-books-music-and-films-for-ai-its-brazen-theft-and-must-be-stopped)
-- Image Generation Litigation: [AI image gen­er­a­tors for using artists’ work with­out con­sent, credit, or com­pen­sa­tion](https://imagegeneratorlitigation.com)
+- Image Generation Litigation: [AI image generators for using artists’ work without consent, credit, or compensation](https://imagegeneratorlitigation.com)
 
 Models directly competing against works contained in its training data
 
