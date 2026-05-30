@@ -13,9 +13,11 @@ The pre-condition for these results is that the use is not causing any of the ha
 | Generating code                      | Accept     |        |
 | Generating tests for existing code   | Accept     |        |
 | Modifying existing code              | Accept     |        |
+| Accessibility                        | Accept     |        |
 | Generating music                     | Reject     |        |
 | Generating artistic images           | Reject     |        |
 | Generating editorial images          | Accept     |        |
+| Generating diagrams                  | Accept     |        |
 | Generating slides for a presentation | Accept     |        |
 | Writing a book                       | Reject     |        |
 | Writing a poem                       | Reject     |        |
@@ -23,3 +25,5 @@ The pre-condition for these results is that the use is not causing any of the ha
 | Add more!                            |            |        |
 
 When you add items, predict what you think the general population would conclude on that use, rather than your personal view of what is acceptable.
+
+You can start a discussion to flip the prediction for any of the items.
